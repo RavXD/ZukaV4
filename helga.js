@@ -1,11 +1,11 @@
-/* Base Ori : Helgaa
-SC Ori : Helgaa
+/* Base Ori : Rav
+ Ori : RavXD
 
 
 Thanks a lot to
  
 > Allah SWT
-> Helga Ilham
+> Rav Pratama
 
 > Agos ( Killerz Bot )
 > My parents
